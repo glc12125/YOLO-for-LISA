@@ -4,7 +4,7 @@ A real-time traffic sign detection based on [YOLOv2](https://pjreddie.com/darkne
 
 The model was trained on [LISA-TS Dataset](http://cvrr.ucsd.edu/vivachallenge/index.php/signs/sign-detection/), a dataset of US traffic signs.
 
-See [notes](notes.txt) (Chinese) for details.
+See [notes](notes.txt) for details.
 
 # Darknet
 
