@@ -1,5 +1,5 @@
 classes = 6
-train   = LISATS/train/train.txt
-valid   = LISATS/valid/valid.txt
-names   = data/lisa.names
+train   = cfg/lisa_train.txt
+valid   = cfg/lisa_test.txt
+names   = data/lisa_full.names
 backup  = backup/
